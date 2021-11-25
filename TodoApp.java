@@ -1,8 +1,11 @@
 package TodoApp;
 
+import javax.swing.JFrame;
+
 public class TodoApp {
     
     public static void main(String[] args) {
-        System.out.println("TodoApp");
+       AppFrame frame = new AppFrame();
+       
     }
 }   // FIM DA CLASSE
