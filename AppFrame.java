@@ -12,6 +12,7 @@ public class AppFrame extends JFrame {
 
         TarefaFormPainel panel = new TarefaFormPainel();
         add(panel);
+        
         setVisible(true);
     }
     
